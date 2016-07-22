@@ -1,0 +1,18 @@
+{
+  "name": "npm-util",
+  "version": "0.0.1",
+  "description": "Programmatically running npm scripts!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "programmatic"
+  ],
+  "author": "74sharlock",
+  "license": "MIT",
+  "dependencies": {
+    "npm": "^3.10.5"
+  }
+}
