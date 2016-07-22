@@ -1,5 +1,5 @@
 {
-  "name": "npm-util",
+  "name": "npm-programmatic-util",
   "version": "0.0.1",
   "description": "Programmatically running npm scripts!",
   "main": "index.js",
