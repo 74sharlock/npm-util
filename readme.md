@@ -1,1 +1,1 @@
-# npm-util
+# npm-programmatic-util
