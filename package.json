@@ -1,6 +1,6 @@
 {
   "name": "npm-programmatic-util",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Programmatically running npm scripts!",
   "main": "index.js",
   "scripts": {
